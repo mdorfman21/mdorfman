@@ -1,0 +1,18 @@
+h1 {
+    background-color: black;
+    color: azure;
+    text-align: center;
+    padding: 30px;
+    
+}
+
+.YourName {
+    color: black;
+    text-align: left;
+
+}
+
+.Contact {
+    text-align: end;
+    color:  black;
+}
